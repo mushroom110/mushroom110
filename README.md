@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" align="center" /> <b>C++</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="34" height="34" align="center" /> <b>C</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="42" height="42" alt="Gemini_Generated_Image_r5w3c6r5w3c6r5w3" src="https://github.com/user-attachments/assets/41642106-86de-42d7-99a5-6cb73ea51f9c" /> <b>Visual Studio</b>
-</p>\
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" style="vertical-align: middle" /> <b>C++</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="34" height="34" style="vertical-align: middle" /> <b>C</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/41642106-0d4d-99e5-6b73ea51f1f0" width="34" height="34" style="vertical-align: middle" /> <b>Visual Studio</b>
+</p>
