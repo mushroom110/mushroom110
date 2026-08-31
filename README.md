@@ -5,5 +5,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="100" height="100" style="vertical-align: middle" /> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="100" height="100" style="vertical-align: middle" /> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  <img src="https://github.com/user-attachments/assets/c0ce8020-e809-4935-9669-8c0792fa6043" width="100" height="100" alt="Gemini_Generated_Image_r5w3c6r5w3c6r5w3" style="vertical-align: middle" />
+  <img width="762" height="708" alt="iconka-vs" src="https://github.com/user-attachments/assets/268be450-eb33-44b1-b81a-9295e983c121" />
 </p>
